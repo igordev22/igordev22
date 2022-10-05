@@ -1,4 +1,4 @@
-## Olá ! Sou o Igor Matheus - Desenvolvedor de Software Front End 🧑‍💻
+## Olá ! Sou o Igor Matheus - Desenvolvedor de Software Front End 💻
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-matheus-gon%C3%A7alves-rodrigues-588646250/)
